@@ -93,3 +93,4 @@ This homepage was designed with a focus on creating a modern, user-friendly expe
 ---
 
 ## Video Shows the content 
+![Demo GIF](theMall.gif)
